@@ -5,7 +5,7 @@
 +  }
 +  return array;
 +}
-+
+function 
 let i = 0;
 +  var array = [];
 +  while (i < facts.length) {
