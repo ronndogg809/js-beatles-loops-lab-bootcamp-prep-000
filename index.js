@@ -5,7 +5,7 @@
 +  }
 +  return array;
 +}
-function johnLennon
+function johnLennonFacts
 let i = 0;
 +  var array = [];
 +  while (i < facts.length) {
