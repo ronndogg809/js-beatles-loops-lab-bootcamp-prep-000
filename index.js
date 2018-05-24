@@ -6,7 +6,7 @@
 +  return array;
 +}
 function johnLennonFacts(facts){
-let i = 0
+let i = 09 dsxi
 +  var array = [];
 +  while (i < facts.length) {
 +    array.push(facts[i++] + "!!!");
