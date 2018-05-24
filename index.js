@@ -8,7 +8,7 @@
 +
 +function johnLennonFacts(array) {
  var facts = [];
-
+let 
 while (i < array.length) {
 +   facts.push(`${array[i]}!!!`)
 +   i++;
