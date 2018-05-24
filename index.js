@@ -6,15 +6,13 @@
 +  return array;
 +}
 +
-+function johnLennonFacts(array) {
- var facts = [];
-let 
-while (i < array.length) {
-+   facts.push(`${array[i]}!!!`)
-+   i++;
-+   }
-+ return facts;
-+}
+let i = 0;
++  var array = [];
++  while (i < facts.length) {
++    array.push(facts[i++] + "!!!");
++  }
++  return array;
+
 +
 +function iLoveTheBeatles (n) {
 +  var ten = [];
